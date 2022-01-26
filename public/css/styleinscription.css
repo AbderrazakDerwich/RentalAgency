@@ -1,0 +1,32 @@
+body {
+    color: black;
+    background-color: white;
+    background-image: url(../image/a-propos-1.png);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#login {
+    background-color: rgba(245, 245, 245, 0.4);
+}
+
+.container-fluid {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row1;
+    justify-content: center;
+    align-items: center;
+    background: url('../img/Fond-Vert2.jpg') no-repeat;
+    background-size: 100% 50%;
+}
+
+.box {
+    width: 620px;
+    height: auto;
+    background: white;
+    box-shadow: 1px 1px 20px #888888;
+}

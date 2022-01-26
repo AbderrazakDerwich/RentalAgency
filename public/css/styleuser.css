@@ -1,0 +1,32 @@
+.date {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.card-img-top {
+    margin: auto;
+    height: 10rem;
+    width: 10rem;
+    background-color: rgb(62, 63, 63);
+}
+
+.date1 {
+    margin-left: 0%
+}
+
+.date2 {
+    margin-left: 2%
+}
+
+.button {
+    margin-left: 3%
+}
+
+.container {
+    display: grid;
+    width: 540px;
+    grid-template-columns: 120px 120px 120px;
+    align-items: start;
+    justify-content: space-between;
+}
